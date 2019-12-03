@@ -4,6 +4,8 @@ Project : Visualization of Blockchain: Creation and Mining
 
 # Installation requirements
 Installing Python 3.6.8 Anaconda, Inc would be sufficient https://www.anaconda.com/distribution/
+
+
 Follow the guidelines given in there to setup the system.
 
 # How to run the code
